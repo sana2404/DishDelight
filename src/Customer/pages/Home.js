@@ -5,6 +5,7 @@ import Banner from "../images/banner.jpeg";
 import "../styles/HomeStyles.css";
 
 const Home = () => {
+
   return (
     <Layout>
       <div className="home" style={{ backgroundImage: `url(${Banner})` }}>
