@@ -1,70 +1,19 @@
-# Getting Started with Create React App
+This is a restaurant website which is created using React JS.
+In this there are two sections one is for customer and the other is for the admin.
+The home page has different options to choose from i.e Menu, About, Contact, Login, Signup, Cart. The customer can toggle between different options smoothly and hassale free.
+The admin page requires to authenticate the admin credentials and then once the credentials are verified the admin goes to admin dashboard where he/she can make changes reagarding the menu, customers, orders, etc. The admin panel gives the admin full control to update and edit the website.
+The customer can also signup and login into there accounts from where they can order the food.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="947" alt="image" src="https://github.com/sana2404/Restaurant-Website/assets/155167168/b74e442a-36e2-43cb-bfd9-90808a10b784">
+<img width="941" alt="image" src="https://github.com/sana2404/Restaurant-Website/assets/155167168/2dbedc8c-9909-4d6c-9c4f-f31001a8bf20">
+<img width="939" alt="image" src="https://github.com/sana2404/Restaurant-Website/assets/155167168/6ae76e36-7021-4ac2-be0b-a64183802a14">
+<img width="937" alt="image" src="https://github.com/sana2404/Restaurant-Website/assets/155167168/4eb42394-0626-41f7-ba9a-b3750f0ad1ee">
+<img width="941" alt="image" src="https://github.com/sana2404/Restaurant-Website/assets/155167168/0472f089-a831-420a-a1ac-bbb649c02832">
+<img width="945" alt="image" src="https://github.com/sana2404/Restaurant-Website/assets/155167168/75e23c71-e5a1-441b-9d4f-ed91be62b498">
+<img width="945" alt="image" src="https://github.com/sana2404/Restaurant-Website/assets/155167168/e982219d-8bb1-4083-94e6-c8bbcb6f035e">
+<img width="948" alt="image" src="https://github.com/sana2404/Restaurant-Website/assets/155167168/e2125536-3981-42fa-aa76-224bf8492f81">
+<img width="937" alt="image" src="https://github.com/sana2404/Restaurant-Website/assets/155167168/048fb912-51b9-484f-bd11-5ccf358a82aa">
+<img width="947" alt="image" src="https://github.com/sana2404/Restaurant-Website/assets/155167168/4da40cf9-0c63-419b-8aaf-d6c20e13fc21">
+<img width="948" alt="image" src="https://github.com/sana2404/Restaurant-Website/assets/155167168/000ea840-00af-4884-975f-05d7cb7b8746">
 
-## Available Scripts
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
